@@ -1,4 +1,9 @@
-
+@media screen and (max-width: 768px){
+  .panel{
+    width: 100%;
+  }
+}
+@media screen and (min-width: 768px){
   .panel {
     display: flex;
     flex-direction: column;
@@ -8,6 +13,8 @@
     border: solid #f7f7f9;
     width: 50%;
   }
+}
+
 .header{
   display: flex;
   flex-direction: row;

@@ -67,9 +67,5 @@ export class AppComponent {
 
 
   }
-
-  modalF() {
-
-  }
 }
 
